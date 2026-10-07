@@ -1,6 +1,6 @@
 // The one place to edit: the contact email shown on every page.
 window.SLIDOOR_LEGAL = {
-  contactEmail: "CONTACT_EMAIL",
+  contactEmail: "nguyenvancong4696@gmail.com",
   seller: "TaroTech",
   updated: "2026-10-07"
 };
